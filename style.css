@@ -24,3 +24,12 @@
   background-size: cover;
   height: 100vh;
 }
+body {
+  height: 100vh;
+}
+#v-pills-tab {
+  width: 15%;
+}
+#v-pills-tabContent {
+  width: 85%;
+}
